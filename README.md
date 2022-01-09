@@ -5,8 +5,9 @@ This program can classify the colour of given input image. The program contains 
 You can check the report for the details.
 
 ## Example
-![orange8](https://user-images.githubusercontent.com/27548058/148695404-b89005c7-7ab6-4f8f-a175-bbb4ae2a269b.jpeg)
+![orange6](https://user-images.githubusercontent.com/27548058/148695512-c12b67cf-4cb3-4830-9e74-f2a36b2df536.jpeg)
 
-## Program behaviour:
+
+## Program behaviour
 The program can recognize the input image's colour as orange.
 
